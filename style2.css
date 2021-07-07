@@ -1,3 +1,35 @@
 .majenta-color{
     color: rgb(117, 31, 197);
 }
+.link-button{
+    color: whitesmoke;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 6px;
+    font-weight: 500;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    padding-top: 50px;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    display: flex;
+     margin-bottom: 120px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.about-us{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+}
