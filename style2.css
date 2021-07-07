@@ -12,7 +12,8 @@
 .half-width{
     width: 50%;
     padding-left: 2%;
-    padding-top: 50px;
+    padding-top: 40px;
+  
 }
 .half-width img{
     width: 80%;
@@ -26,10 +27,21 @@ h1{
 }
 h2{
     font-size: 40px;
+    color: rgb(85, 85, 85);
 }
 p{
     font-size: 20px;
 }
 .about-us{
     background-image: url(images/shapes/Frame\ 59.jpg);
+    padding-top: 10px;
+}
+.orange-color{
+    color: orange;
+}
+.food-item{
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 30px gray;
 }
