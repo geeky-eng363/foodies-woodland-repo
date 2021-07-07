@@ -1,7 +1,5 @@
-.cuisines-area{
-    text-align: center;
 
-}
+
 .majenta-color{
     color: rgb(117, 31, 197);
 }
@@ -21,6 +19,7 @@
 }
 .half-width img{
     width: 80%;
+    
 }
 section{
     display: flex;
@@ -49,37 +48,54 @@ p{
     margin-left: 5%;
     box-shadow: 10px 10px 20px gray;
     border-radius: 20px;
+    text-align: center;
+    box-shadow: rgba(8, 252, 150, 0.973) 5px 5px 8px;
+    
 }
 .image-item{
- 
     width: 300px;
     height: 300px;
-   
-   
     padding: 10px 10px ;
-}
-.item-cart img{
-    align-items: center;
-    border-radius: 10px;
-
+    border-radius: 20px;
+    
 }
 .recipe-name{
     text-align: center;
-    padding-left: 100px;
+    padding-left: 160px;
+    
 }
 .recipes{
     padding-left: 300px;
+    
 }
 .subscriber-score{
     display: flex;
     align-items: center; 
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    padding: 20px 40px;
+    box-shadow: rgba(8, 252, 231, 0.973) 5px 5px 8px;
+    padding: 10px 20px 20px;
     margin-left: 180px;
+    border-radius: 25px;
 }
 .thousand-score{
-    width: 300 px;
-    height: 180px;
+    padding-left: 120px;
+    height: 170px;
     text-align: center;
+    margin: 0px 20px;
   
+    
+}
+
+.footer-eliments{
+   
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 51, 59);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1400px;
+}
+.footer-name{
+    color: rgb(40, 243, 223);
 }
